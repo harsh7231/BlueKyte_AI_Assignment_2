@@ -76,7 +76,7 @@
 
 - The back-end application is a set of RESTful API.
 
-- The front-end application github repository link is `https://github.com/harsh7231/BlueKyte_AI_Assignment_2_Backend`
+- The back-end application github repository link is (https://github.com/harsh7231/BlueKyte_AI_Assignment_2_Backend)
 
 ## Screenshots
 
