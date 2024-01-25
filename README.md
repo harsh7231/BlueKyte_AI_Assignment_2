@@ -80,7 +80,7 @@
 
 ## Screenshots
 
-![Screenshot of Bookstore App](https://drive.google.com/file/d/1NvjwxsWZIFMAMTYcoTOGMsNQ_4bFU0BZ/view?usp=sharing)
+![Screenshot of Bookstore App] (https://drive.google.com/file/d/1NvjwxsWZIFMAMTYcoTOGMsNQ_4bFU0BZ/view?usp=sharing)
 
 ## Contributing
 
