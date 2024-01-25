@@ -56,7 +56,7 @@
 
 2. Navigate to the project directory:
 
-- `cd online-bookstore-frontend`
+- `cd BlueKyte_AI_Assignment_2`
 
 3. Install dependencies:
 
