@@ -1,0 +1,96 @@
+.edit__book {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.edit__book__left {
+  height: 100vh;
+  width: 55vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 5vw;
+}
+
+.book__form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10vh;
+  height: 100vh;
+  width: 50vw;
+}
+
+.book__input {
+  height: 8vh;
+  width: 50vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.book__input > input {
+  height: 5vh;
+  width: 30vw;
+  align-self: flex-start;
+  border: #c2c2c2 1px solid;
+  color: #c2c2c2;
+  border-radius: 1vh;
+  padding: 5px;
+}
+
+.book__input > label {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.book__input > select {
+  height: 6vh;
+  width: 15vw;
+  border: #c2c2c2 1px solid;
+  color: #c2c2c2;
+  border-radius: 1vh;
+  padding: 5px;
+  margin-right: 16vw;
+}
+
+.book__input > textarea {
+  height: 5vh;
+  width: 30vw;
+  resize: none;
+  border: #c2c2c2 1px solid;
+  color: #c2c2c2;
+  border-radius: 1vh;
+  padding: 5px;
+}
+
+.edit__book__right {
+  background-image: url("../../assets/addBookPage//addBook.png");
+  height: 100vh;
+  width: 45vw;
+  color: white;
+}
+
+.cancel__updatebook {
+  height: 5.5vh;
+  width: 12vw;
+  background-color: #c2c2c2;
+  border-radius: 1vh;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  margin: 1vh 0 0 0;
+}
+
+.update__book__button {
+  height: 5.5vh;
+  width: 12vw;
+  background-color: #ed5353;
+  border-radius: 1vh;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  margin: 1vh 0 0 1vh;
+  cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.error404 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f8f8f8;
+  text-align: center;
+}
+
+.error404__title {
+  font-size: 48px;
+  color: #ff5555;
+  margin-bottom: 16px;
+}
+
+.error404__message {
+  font-size: 24px;
+  color: #555555;
+}
