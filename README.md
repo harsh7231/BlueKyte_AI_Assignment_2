@@ -80,7 +80,11 @@
 
 ## Screenshots
 
-![Screenshot of Bookstore App](https://drive.google.com/file/d/1NvjwxsWZIFMAMTYcoTOGMsNQ_4bFU0BZ/view?usp=sharing)
+![](ScreenShots/Book1.png)
+
+![](ScreenShots/Book2.png)
+
+![](ScreenShots/Book3.png)
 
 ## Contributing
 
