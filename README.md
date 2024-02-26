@@ -52,11 +52,11 @@
 
 ## Installation
 
-1. Clone the repository: -`git clone https://github.com/harsh7231/BlueKyte_AI_Assignment_2.git`
+1. Clone the repository: -`git clone https://github.com/harsh7231/Book-Listing-Platform.git`
 
 2. Navigate to the project directory:
 
-- `cd BlueKyte_AI_Assignment_2`
+- `cd Book-Listing-Platform`
 
 3. Install dependencies:
 
@@ -76,7 +76,7 @@
 
 - The back-end application is a set of RESTful API.
 
-- The back-end application github repository link is (https://github.com/harsh7231/BlueKyte_AI_Assignment_2_Backend)
+- The back-end application github repository link is (https://github.com/harsh7231/Book-Listing-Platform-Backend)
 
 ## Screenshots
 
